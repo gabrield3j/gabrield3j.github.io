@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Gabriel Dogbanya"
+  name   : Gabriel Dogbanya
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Medical doctor, OBGYN,Doctoral student in Maternal and child Health, Family Medicine Dept. University of Maryland Collegepark US. Passionate about the health of women and children in vulnerable settings around the world."
   links:
